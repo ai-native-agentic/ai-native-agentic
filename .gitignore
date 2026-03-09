@@ -1,0 +1,49 @@
+# Subprojects (each has own git repo)
+openclaw/
+nanoclaw/
+nanobot/
+seedbot/
+lunark-ondevice-ai-lab/
+ai-native-self-learning-agents/
+trpg-chatbot-lab/
+lunark-chatbot-lab/
+ClawWork/
+openmanus/
+symphony/
+harness-engineering/
+documentation/
+
+# Infrastructure directories
+.github/
+tests/
+docker/
+k8s/
+helm/
+economic_sdk/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+*.bak
